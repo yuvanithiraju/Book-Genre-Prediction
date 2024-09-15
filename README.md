@@ -1,4 +1,4 @@
-#Book Genre Prediction:
+# Book Genre Prediction:
 
 This project aims to predict the genre of a book based on its textual data using machine learning techniques. The notebook demonstrates various steps in preprocessing the data, applying different models, and evaluating their performance.
 
@@ -31,16 +31,16 @@ matplotlib
 seaborn
 nltk
 scikit-learn
-Install the necessary packages using:
 
-bash
-Copy code
+Install the necessary packages using:
 pip install pandas numpy matplotlib seaborn nltk scikit-learn
+
 How to Run
 Clone or download this repository.
 Install the necessary dependencies.
 Open the Jupyter Notebook (Book_Genre_Prediction.ipynb) using Jupyter Lab or Jupyter Notebook.
 Run each cell in sequence to reproduce the results.
+
 Project Overview
 This project explores how different machine learning models perform on a book genre classification task. Through data preprocessing, vectorization of textual data, and training multiple classifiers, we aim to achieve a high accuracy in predicting the genres of books based on available text data.
 
