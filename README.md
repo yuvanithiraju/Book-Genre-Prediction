@@ -1,4 +1,5 @@
-##Book Genre Prediction
+#Book Genre Prediction:
+
 This project aims to predict the genre of a book based on its textual data using machine learning techniques. The notebook demonstrates various steps in preprocessing the data, applying different models, and evaluating their performance.
 
 Project Structure
